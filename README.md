@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @chiragmohod
-- 👀 I’m interested in Writing
-- 🌱 I’m currently learning FYBSCCS in Patkar College
-- 💞️ I’m looking to collaborate on Python
-- 📫 How to reach me ...sorry
+- 👀 I’m Video Editor plus Coder
+- 🌱 I’m currently learning MSCCS P2 in Patkar College
+- 💞️ I’m looking to collaborate on Python/DS
+- 📫 How to reach me ..... just google me
 
 <!---
 chiragmohod/chiragmohod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
