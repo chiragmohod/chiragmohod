@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chiragmohod
 - 👀 I’m Video Editor plus Coder
-- 🌱 I’m currently learning MSCCS P2 in Patkar College
+- 🌱 I’ve completed MSCCS P2 in Patkar College
 - 💞️ I’m looking to collaborate on Python/DS
 - 📫 How to reach me ..... just google me
 
