@@ -39,10 +39,13 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiragmohod&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chiragmohod&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chiragmohod&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragmohod&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 ## 📫 Connect With Me
